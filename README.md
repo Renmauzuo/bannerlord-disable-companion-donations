@@ -5,3 +5,5 @@ This is a mod for Mount and Blade Bannerlord that prevents heroes in the player'
 This mod uses Harmony to patch the OnSettlementEntered method of GarrisonTroopsCampaignBehavion, so it may conflict with other mods that patch that method. Ideally this mod would patch FindNumberOfTroopsToLeaveToGarrison in DefaultSettlementGarrisonModel instead but unfortunately that is currently not public.
 
 Feel free to fork and modify this mod, or incorporate it into a mod of your own.
+
+The compiled mod can be downloaded [here](https://www.nexusmods.com/mountandblade2bannerlord/mods/703/)
