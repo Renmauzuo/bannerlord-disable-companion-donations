@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisableCompanionDonations", "DisableCompanionDonations\DisableCompanionDonations.csproj", "{33108BDA-7B01-4C6E-9C07-A98E0D68B1E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33108BDA-7B01-4C6E-9C07-A98E0D68B1E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33108BDA-7B01-4C6E-9C07-A98E0D68B1E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33108BDA-7B01-4C6E-9C07-A98E0D68B1E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33108BDA-7B01-4C6E-9C07-A98E0D68B1E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40906C15-32DC-46F8-B2C6-18E768371990}
+	EndGlobalSection
+EndGlobal

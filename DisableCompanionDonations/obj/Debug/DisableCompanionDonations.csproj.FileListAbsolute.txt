@@ -1,0 +1,6 @@
+D:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\DisableCompanionDonations\bin\Win64_Shipping_Client\DisableCompanionDonations.dll
+D:\DevProjects\BannerlordMods\bannerlord-disable-companion-donations\DisableCompanionDonations\obj\Debug\DisableCompanionDonations.csproj.CoreCompileInputs.cache
+D:\DevProjects\BannerlordMods\bannerlord-disable-companion-donations\DisableCompanionDonations\obj\Debug\DisableCompanionDonations.csproj.CopyComplete
+D:\DevProjects\BannerlordMods\bannerlord-disable-companion-donations\DisableCompanionDonations\obj\Debug\DisableCompanionDonations.dll
+D:\DevProjects\BannerlordMods\bannerlord-disable-companion-donations\DisableCompanionDonations\obj\Debug\DisableCompanionDonations.pdb
+D:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\DisableCompanionDonations\bin\Win64_Shipping_Client\DisableCompanionDonations.pdb
