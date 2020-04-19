@@ -1,4 +1,4 @@
-#Bannerlord Disable Companion Donations
+# Bannerlord Disable Companion Donations
 
 This is a mod for Mount and Blade Bannerlord that prevents heroes in the player's clan from donating troops to settlement garrisons, stopping them from giving away any high tier troops given to them by the player.
 
